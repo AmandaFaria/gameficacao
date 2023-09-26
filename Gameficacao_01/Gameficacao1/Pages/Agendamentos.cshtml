@@ -1,0 +1,36 @@
+﻿@page
+@model AgendamentosModel
+@{
+    ViewData["Title"] = "Agendamentos";
+}
+
+<h1>Agendamentos</h1>
+<!-- Formulário de agendamento de consulta -->
+<form method="post">
+    <div class="form-group">
+        <label for="Medico">Médico:</label>
+        <select class="form-control" id="Medico" name="Medico">
+            <!-- Preencha com os médicos disponíveis -->
+        </select>
+    </div>
+    <div class="form-group">
+        <label for="Data">Data:</label>
+        <input type="date" class="form-control" id="Data" name="Data">
+    </div>
+    <div class="form-group">
+        <label for="Hora">Hora:</label>
+        <input type="time" class="form-control" id="Hora" name="Hora">
+    </div>
+    <div class="form-group">
+        <label for="TipoConsulta">Tipo de Consulta:</label>
+        <select class="form-control" id="TipoConsulta" name="TipoConsulta">
+            <option value="Presencial">Presencial</option>
+            <option value="Online">Online</option>
+        </select>
+    </div>
+    <div class="form-group">
+        <label for="Observacoes">Observações:</label>
+        <textarea class="form-control" id="Observacoes" name="Observacoes"></textarea>
+    </div>
+    <button type="submit" class="btn btn-primary">Agendar Consulta</button>
+</form>

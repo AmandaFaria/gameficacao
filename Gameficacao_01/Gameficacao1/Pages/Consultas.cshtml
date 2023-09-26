@@ -1,0 +1,34 @@
+﻿@page
+@model Gameficacao1.Pages.Index;
+@{
+    ViewData["Title"] = "Consultas";
+}
+
+<div class="container">
+    <h1>Consultas</h1>
+
+    <!-- Exibe a lista de consultas -->
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Médico</th>
+                <th>Paciente</th>
+                <th>Data e Hora</th>
+                <th>Tipo de Consulta</th>
+                <th>Observações</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var consulta in Model.Consultas)
+            {
+                <tr>
+                    <td>@consulta.Medico.Name</td>
+                    <td>@consulta.Paciente.Nome</td>
+                    <td>@consulta.DataHora</td>
+                    <td>@consulta.TipoConsulta</td>
+                    <td>@consulta.Observacoes</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

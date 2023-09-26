@@ -9,29 +9,29 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Gameficacao01.RazorPages
 build_property.RootNamespace = Gameficacao01.RazorPages
-build_property.ProjectDir = /Users/amandafaria/Documents/gameficacao/Gameficacao_01/Gameficacao01.RazorPages/
+build_property.ProjectDir = C:\Users\JoãoVitorMacedo\Source\Repos\gameficacao\Gameficacao_01\Gameficacao01.RazorPages\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /Users/amandafaria/Documents/gameficacao/Gameficacao_01/Gameficacao01.RazorPages
+build_property.MSBuildProjectDirectory = C:\Users\JoãoVitorMacedo\Source\Repos\gameficacao\Gameficacao_01\Gameficacao01.RazorPages
 build_property._RazorSourceGeneratorDebug = 
 
-[/Users/amandafaria/Documents/gameficacao/Gameficacao_01/Gameficacao01.RazorPages/Pages/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXguY3NodG1s
+[C:/Users/JoãoVitorMacedo/Source/Repos/gameficacao/Gameficacao_01/Gameficacao01.RazorPages/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/amandafaria/Documents/gameficacao/Gameficacao_01/Gameficacao01.RazorPages/Pages/Shared/_MainLayout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19NYWluTGF5b3V0LmNzaHRtbA==
+[C:/Users/JoãoVitorMacedo/Source/Repos/gameficacao/Gameficacao_01/Gameficacao01.RazorPages/Pages/Shared/_MainLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9NYWluTGF5b3V0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/amandafaria/Documents/gameficacao/Gameficacao_01/Gameficacao01.RazorPages/Pages/Shared/_MainMenuPartialPager.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19NYWluTWVudVBhcnRpYWxQYWdlci5jc2h0bWw=
+[C:/Users/JoãoVitorMacedo/Source/Repos/gameficacao/Gameficacao_01/Gameficacao01.RazorPages/Pages/Shared/_MainMenuPartialPager.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9NYWluTWVudVBhcnRpYWxQYWdlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/amandafaria/Documents/gameficacao/Gameficacao_01/Gameficacao01.RazorPages/Pages/_ViewImports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+[C:/Users/JoãoVitorMacedo/Source/Repos/gameficacao/Gameficacao_01/Gameficacao01.RazorPages/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/amandafaria/Documents/gameficacao/Gameficacao_01/Gameficacao01.RazorPages/Pages/_ViewStart.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdTdGFydC5jc2h0bWw=
+[C:/Users/JoãoVitorMacedo/Source/Repos/gameficacao/Gameficacao_01/Gameficacao01.RazorPages/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

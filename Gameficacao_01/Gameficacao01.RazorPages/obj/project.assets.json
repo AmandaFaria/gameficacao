@@ -1265,24 +1265,26 @@
     ]
   },
   "packageFolders": {
-    "/Users/amandafaria/.nuget/packages/": {}
+    "C:\\Users\\JoãoVitorMacedo\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/amandafaria/Documents/gameficacao/Gameficacao_01/Gameficacao01.RazorPages/Gameficacao01.RazorPages.csproj",
+      "projectUniqueName": "C:\\Users\\JoãoVitorMacedo\\Source\\Repos\\gameficacao\\Gameficacao_01\\Gameficacao01.RazorPages\\Gameficacao01.RazorPages.csproj",
       "projectName": "Gameficacao01.RazorPages",
-      "projectPath": "/Users/amandafaria/Documents/gameficacao/Gameficacao_01/Gameficacao01.RazorPages/Gameficacao01.RazorPages.csproj",
-      "packagesPath": "/Users/amandafaria/.nuget/packages/",
-      "outputPath": "/Users/amandafaria/Documents/gameficacao/Gameficacao_01/Gameficacao01.RazorPages/obj/",
+      "projectPath": "C:\\Users\\JoãoVitorMacedo\\Source\\Repos\\gameficacao\\Gameficacao_01\\Gameficacao01.RazorPages\\Gameficacao01.RazorPages.csproj",
+      "packagesPath": "C:\\Users\\JoãoVitorMacedo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\JoãoVitorMacedo\\Source\\Repos\\gameficacao\\Gameficacao_01\\Gameficacao01.RazorPages\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/amandafaria/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\JoãoVitorMacedo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -1331,7 +1333,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }
